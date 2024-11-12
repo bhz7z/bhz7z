@@ -40,7 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bhz7z/bhz7z/output/snake.svg" alt="Snake animation" />
 
 ###
 
