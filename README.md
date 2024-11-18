@@ -4,12 +4,6 @@
 
 <p align="left">- Me chamo Luan Victor, sou de Salvador/BA.<br>- Sou um desenvolvedor Android.<br>- Uso Kotlin como minha linguagem principal.<br>- Atualmente estou buscando uma vaga no mercado de trabalho pra desenvolver projetos e novas ideias.</p>
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">- Me chamo Luan Victor, sou de Salvador/BA.<br>- Sou um desenvolvedor Android.<br>- Uso Kotlin como minha linguagem principal.<br>- Atualmente estou buscando uma vaga no mercado de trabalho pra desenvolver projetos e novas ideias.</p>
-
 ###
 
 <h2 align="left">Tecnologias</h2>
@@ -64,6 +58,3 @@
 <h2 align="left">Redes Sociais</h2>
 
 ###
-
-
-
